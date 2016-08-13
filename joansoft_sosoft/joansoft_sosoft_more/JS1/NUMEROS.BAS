@@ -1,0 +1,15 @@
+C = 0
+S = 1
+CLS
+SCREEN 1
+DO
+IF X = 33 THEN X = 0
+X = X + 1
+COLOR X
+'FOR C = 1 TO 10000: NEXT
+L = L + 1
+IF L = 24 THEN L = 1: S = S + 5
+LOCATE L, S: PRINT N
+N = N + 1
+LOOP
+

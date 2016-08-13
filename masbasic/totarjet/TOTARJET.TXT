@@ -1,0 +1,68 @@
+____________________________INSTRUCCIONES DEL TOTALTARJET______________________
+-----------------------ESTE PROGRAMA, IGUAL QUE EL TUTOJOAN:
+|||||||||ESTAN CREADOS POR LA CASA JOANSOFT (DE MOMENTO EL UNICO||||||||||||||
+|||||||||QUE TRABAJA EN ESTA CASA, SOY YO).|||||||||||||||||||||||||||||||||||
+
+
+
+******* ******** *              **            *  
+      * *      * * *            * *           *  
+      * *      * *   *          *   *         *  
+      * *      * *     *        *     *       *  
+***** * *      * ***********    *         *   *  
+*     * *      * *           *  *           * *  
+******* ******** *             **             *  
+       
+
+********* ******** ********** *************
+*         *      * *                *
+*         *      * **********       *
+********* *      * *                *
+        * *      * *                *
+        * *      * *                *
+********* ******** *                *
+
+EL PROGRAMA TOTARJET.BAS, TOTARJET.BAT Y TOTARJET.TXT SE CREARON EL D÷A
+13-7-96, PERO NO CREAIS QUE ES MUCHO LO QUE HOS VOY A OFRECER PERO SOLO
+TENGO 11 A•OS, ®HOS IMAGINAIS LOS PROGRAMAS QUE PODRE HACER DE MµS MAYOR?
+ESTE ES COMO UNA TARJETA PARA RELLENAR CON TUS DATOS O DATOS DE OTRA PERSONA.
+PERO DE MOMENTO, EL DIA QUE FUE CREADO NO SE PODIA IMPRIMIR, PERO SI CONSIGO
+QUE IMPRIMA LA TARJETA QUE HAS ECHO, PUES HOS LO COMUNICARE AL FINAL DE ESTE
+TEXTO.
+RECUERDA QUE SI DE MAYOR CREO UNA ORGANIZACI‡N LLAMADA, SEGURAMENTE JOANSOFT,
+Y COMO AHORA, PARA MI EDAD ES MUCHO LO QUE HAGO, CUANDO SEA MAYOR Y CREO
+LA CASA JOANSOFT, COMPRA UN PRODUCTA Y TE LLEVARAS LO MEJOR.
+
+≠ ATENCI‡N SE NECESITA UN AYUDANTE QUE SEPA PROGRAMAR EN MµS DE DOS LENGUAJES,
+Y SI PUEDE SER CON UN ORDENADOR BIêN EQUIPADO!
+PERO NO HOS PONDRE MI DIRECCI‡N AQUI MISMO, SI NO, CUANDO COMPRIS ESTE
+PRODUCTO SI ME CAEIS BIêN HOS LA DIRE.
+
+-----------------------------REQUISITOS M÷NIMOS---------------------------------
+
+-UN 286SX A 16 MHz O SUPERIOR-
+-UNA UNIDAD DE DISQUETERA DENOMINADA CON LA LETRA ''A''.
+-4 MB DE RAM O MµS-
+-TECLADO Y RAT‡N ES OPCIONAL-
+-MEMORIA SUPERIOR LIBRE-
+-TENER PACIENCIA Y SABER LEER-
+-TAMBIêN UNA TARJETA GRµFICA CGA O SUPERIOR-
+-MS-DOS 5.00 O SUPERIOR-                            
+
+-----------------------------LO RECOMENDADO-----------------------------------
+PENTIUM 133/166 MHz.
+16/64 MB RAM.
+UNOS 540 KB DE MEMORIA CONVENCIONAL LIBRE.
+MS-DOS 7.00
+-------------------------------NO SE NECESITA NADA MµS------------------------
+
+RECUERDE QUE PARA SALIR DEL ARCHIVO DE PROCESO POR LOTES, QUANDO HAYAS
+ACABADO EL PROGRAMA Y APAREZCA UNA PANTALLA DE COLOR AZÈL (O SEGÈN EL COLOR
+QUE LE HAYAS PUESTO), BUENO, PUES PRESIONA ALT + A (PERO SI TU QBASIC ES EN
+INGLES AS DE PONER ALT + F O SI NO ALT+ MAS LA PRIMERA LETRA DEL MENU QUE
+APARECE EN LA PARTE SUPERIOR IZQUIERDA DE LA PANTALLA), VERAS COMO EN LA
+PARTE SUPERIOR IZQUIERDA DE LA PANTALLA SE ABRE EL PRIMER MENÈ.
+I DESPUES BAJA ASTA LA OPCI‡N SALIR Y PULSA ENTER O SI NO MIRA LA OPCI‡N ESA
+Y LA LETRA QUE DESTACA DE LA PALABRA, PUES PULAS ESA LETRA.
+---------------------------....ADI‡S....---------------------------------------
+

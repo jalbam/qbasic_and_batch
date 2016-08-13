@@ -1,0 +1,398 @@
+@@!1!@
+Comandos del Editor
+
+Comandos de movimiento del cursor
+---------------------------------
+Inicio     - Se desplaza hasta el inicio de la l¡nea actual.
+Fin        - Se desplaza hasta el final de la l¡nea actual.
+Ctrl+Arriba- Se desplaza una l¡nea hacia arriba.
+Ctrl+Abajo - Se desplaza una l¡nea hacia abajo.
+ReP g      - Se desplaza una pantalla hacia arriba.
+AvP g      - Se desplaza una pantalla hacia abajo.
+Ctrl+ReP g - Se desplaza una pantalla hacia la izquierda.
+Ctrl+AvP g - Se desplaza una pantalla hacia la derecha.
+Ctrl+Inicio- Se desplaza hasta el inicio del documento.
+Ctrl+Fin   - Se desplaza hasta el final del documento.
+Ctrl+Izq.  - Se desplaza una palabra hacia la izquierda.
+Ctrl+Der.  - Se desplaza una palabra hacia la derecha.
+
+Comandos del Editor
+-------------------
+Entrar     - Inicia una nueva l¡nea.
+Supr       - Elimina el car cter sobre el que est  el cursor.
+Retroceso  - Elimina el car cter hacia la izquierda del cursor.
+Tab        - Mueve el cursor hasta la siguiente tabulaci¢n.
+Ins        - Cambia entre los modos de insertar y sobrescribir.
+Ctrl+Y     - Elimina la l¡nea actual.
+Ctrl+V     - Pega el contenido del b£fer en el archivo.
+Ctrl+P     - Permite la inserci¢n de caracteres especiales.
+
+Comandos para trabajar con regiones seleccionadas
+-------------------------------------------------
+May£s      - Utilice la tecla May£s conjuntamente con las
+             funciones de movimiento del cursor para seleccionar
+             regiones.
+Ctrl+C     - Copia la selecci¢n actual en el b£fer.
+Ctrl+X     - Elimina la selecci¢n actual y la copia en el b£fer.
+Supr       - Elimina la selecci¢n actual.
+Tab        - Sangra las l¡neas seleccionadas.
+May£s+Tab  - Quita la sangr¡a de las l¡neas seleccionadas.
+
+Comandos para buscar y reemplazar texto
+---------------------------------------
+Ctrl+Q+F   - Busca texto.
+Ctrl+Q+A   - Busca texto y lo reemplaza.
+F3         - Repite la £ltima b£squeda.
+
+Comandos de administraci¢n de ventana
+-------------------------------------
+F6         - Cambia a la siguiente ventana del Editor.
+F8         - Cambia al siguiente archivo en que se est‚
+             trabajando.
+Ctrl+F6    - Abre una segunda ventana del Editor.
+Ctrl+F4    - Cierra la segunda ventana del Editor.
+Ctrl+F8    - Cambia el tama¤o de las ventanas del Editor.
+
+Otros comandos
+--------------
+F1         - Muestra la ayuda contextual.
+
+Tambi‚n est n soportadas muchas de las antiguas teclas de m‚todo
+abreviado de anteriores versiones del EDITOR DE MS-DOS.
+@@!3!@
+Buscar
+
+Busca texto en un archivo.
+
+ Para buscar texto que sea una palabra entera y no parte de una
+  palabra m s larga, haga clic en "Palabra completa".
+ Para buscar texto con la misma combinaci¢n de may£sculas y
+  min£sculas que el texto buscado, haga clic en
+  "May£sculas/min£sculas".
+ Para cancelar la b£squeda en cualquier momento, haga clic en
+  ESC.
+@@!4!@
+Reemplazar
+
+Busca texto especificado y lo reemplaza por texto nuevo.
+
+ Para confirmar cada reemplazo, haga clic en el bot¢n
+  "Reemplazar".
+ Para reemplazar de una sola vez todas las veces en que aparece
+  el texto buscado, haga clic en el bot¢n "Reemplazar todo".
+ Para buscar texto que sea una palabra entera y no parte de una
+  palabra m s larga, haga clic en "Palabra completa".
+ Para buscar texto con la misma combinaci¢n de may£sculas y
+  min£sculas que el texto buscado, haga clic en
+  "May£sculas/min£sculas".
+
+La primera vez que aparece el texto buscado, queda seleccionado
+y el programa pregunta si desea reemplazarlo, ignorarlo por esta
+vez sin reemplazarlo o cancelar la b£squeda.
+Para cancelar la operaci¢n en cualquier momento, haga clic en
+ESC.
+@@!5!@
+Archivo Abrir
+
+Abre un archivo existente o crea un archivo con nuevo nombre.
+
+ Podr  utilizar los cuadros "Archivos" y "Directorios" para
+  seleccionar el nombre de la ruta de acceso del archivo, o bien
+  escribir la ruta de acceso en el cuadro "Nombre de archivo".
+
+ Si el archivo no existe, se crear  un nuevo archivo vac¡o con
+  la ruta de acceso especificada.
+
+ Para leer el archivo en modo de s¢lo lectura, haga clic en
+  "Abrir s¢lo lectura".
+
+ Para abrir el archivo en modo binario, haga clic en
+  "Abrir binario". A continuaci¢n, escriba el ancho de l¡nea
+  deseado en el cuadro "Ancho de l¡nea", situado debajo de la
+  casilla de verificaci¢n "Abrir binario".
+@@!6!@
+Archivo Guardar como
+
+Guarda y da nombre al archivo con el que se est‚ trabajando.
+
+ Utilice este comando para dar nombre a un nuevo archivo sin
+  nombre, o bien para cambiar el nombre de un archivo existente.
+  Utilice el comando Guardar como para guardar un archivo
+  existente sin cambiarle el nombre.
+
+ Introduzca la nueva ruta de acceso en el cuadro "Nombre
+  de archivo". Tambi‚n podr  utilizar los cuadros "Directorios"
+  y "Archivos existentes" para ayudar a buscar archivos con otro
+  nombre, o guardados en otro directorio o unidad.
+
+ Si ya existe un archivo con el mismo nombre, Editor preguntar 
+  si est  seguro de que desea reemplazarlo por este archivo.
+@@!8!@
+Imprimir
+
+Imprime el archivo seleccionado en el que se est‚ trabajando.
+
+ Para imprimir s¢lo una parte del archivo, seleccione el texto
+  que desee imprimir. En el cuadro de di logo Imprimir, haga
+  clic en "S¢lo texto seleccionado".
+
+ Para imprimir el archivo ¡ntegro, haga clic en "Documento
+  completo".
+@@!9!@
+Colores
+
+Determina el color de los elementos de pantalla.
+
+1. En la lista "Elemento", haga clic en el elemento que desee
+   cambiar.
+
+2. En la lista "Primer plano", haga clic en el color en que
+   desee que aparezca el elemento.
+
+3. En la lista "Segundo plano", haga clic en el color en que
+   desee que aparezca el segundo plano.
+
+Sugerencia:
+ Para volver al dise¤o de colores original, haga clic en
+  "Predeterminado". Esto anula todos los cambios que se hayan
+  hecho.
+@@!10!@
+Configuraci¢n
+
+Determina la configuraci¢n del Editor.
+
+ Utilice "Tabulaci¢n" para indicar el n£mero de tabulaciones en
+  una l¡nea.
+ Utilice "Puerto de impresora" para indicar a qu‚ puerto est 
+  conectada su impresora.
+@@!101!@
+Archivo Nuevo
+
+Crea un nuevo archivo.
+
+Hasta que no haya guardado este archivo, el programa pedir  la
+ruta de acceso en la que desee guardarlo.
+
+Utilice el comando Archivo Abrir para abrir un documento
+existente.
+@@!102!@
+Archivo Abrir
+
+Abre un archivo existente o crea un archivo de nuevo nombre.
+Es posible tener hasta 9 archivos en memoria simult neamente.
+@@!103!@
+Archivo Cerrar
+
+Cierra el archivo que en ese momento aparece en pantalla.
+
+Si ha cambiado el archivo desde la £ltima vez que se guard¢,
+el Editor consultar  si desea volver a guardarlo.
+@@!104!@
+Archivo Guardar
+
+Guarda el archivo que en ese momento est  en pantalla.
+
+Si no se ha asignado nombre al archivo, el programa pedir  una
+ruta de acceso en la que guardarlo. Si ya existe un archivo con
+el mismo nombre que el archivo que est‚ guardando, el programa
+preguntar  si desea sobrescribir el archivo existente.
+@@!105!@
+Archivo Guardar como
+
+Guarda el archivo que en ese momento est  en pantalla bajo un
+nombre diferente, o permite dar un nombre a un archivo nuevo
+que no lo tenga.
+
+Si ya existe un archivo con el mismo nombre que el que se est 
+guardando, el programa preguntar  si desea sobrescribir el
+archivo existente.
+
+Tambi‚n podr  utilizar este comando para guardar un archivo
+abierto en modo de s¢lo lectura con otro nombre. Una vez que lo
+haga, el nuevo archivo estar  en modo de lectura y escritura.
+@@!106!@
+Archivo Imprimir
+
+Imprime el archivo actualmente abierto.
+
+Podr  imprimir el archivo entero o s¢lo la selecci¢n actual.
+@@!107!@
+Archivo Salir
+
+Permite salir del Editor.
+
+Si ha cambiado cualquier archivo desde la £ltima vez que lo
+guard¢, el programa preguntar  si desea guardar cada uno de
+ellos. Haga clic en "S¡" para guardar el archivo, en "No" para
+ignorar los cambios, o en "Cancelar" para seguir editando el
+archivo.
+@@!112!@
+Edici¢n Cortar
+
+Elimina la regi¢n seleccionada y la copia en el Portapapeles
+del Editor.
+
+El Portapapeles del Editor es un  rea de almacenamiento temporal
+dentro del Editor, independiente del Portapapeles de Windows.
+
+Tambi‚n podr  utilizar la antigua combinaci¢n May£s+Supr para
+cortar texto.
+@@!113!@
+Edici¢n Copiar
+
+Copia la regi¢n seleccionada en el Portapapeles del Editor.
+
+Tambi‚n podr  utilizar la antigua combinaci¢n Ctrl+Ins para
+copiar texto.
+@@!114!@
+Edici¢n Pegar
+
+Pega el contenido del Portapapeles (en su caso) en la posici¢n
+del cursor.
+
+Tambi‚n podr  utilizar la antigua combinaci¢n May£s+Ins para
+pegar texto. Es posible pegar el mismo texto m s de una vez.
+@@!115!@
+Edici¢n Borrar
+
+Elimina la selecci¢n actual sin copiarla en el Portapapeles.
+@@!121!@
+Buscar
+
+Busca y resalta el texto especificado en un archivo cargado.
+@@!122!@
+Repetir £ltima b£squeda
+
+Busca la siguiente ocasi¢n en que aparece el texto buscado.
+Inicia la b£squeda desde donde se encontr¢ por £ltima vez el
+texto buscado.
+@@!123!@
+Reemplazar
+
+Busca texto y lo reemplaza por texto nuevo.
+@@!131!@
+Dividir ventana
+
+Abre una segunda ventana del Editor.
+Tambi‚n podr  abrir una segunda ventana arrastrando hacia abajo
+la barra de t¡tulo.
+
+Podr  utilizar dos ventanas para editar el mismo archivo o
+archivos diferentes. Si se est  editando el mismo archivo en
+ambas ventanas, todos los cambios de edici¢n que se hagan en
+una ventana aparecer n tambi‚n en la otra.
+@@!132!@
+Tama¤o de ventana
+
+Cambia el tama¤o de las ventanas del Editor
+si hay dos abiertas.
+
+Utilice las teclas FLECHA ARRIBA y FLECHA ABAJO para cambiar el
+tama¤o de las ventanas. Presione ENTRAR para aceptar el nuevo
+tama¤o de ventana, o ESC para cancelar.
+
+Tambi‚n podr  utilizar el mouse (rat¢n) para cambiar el tama¤o
+de las ventanas, arrastrando la ventana de t¡tulo de la ventana
+inferior.
+@@!133!@
+Cerrar ventana
+
+Cierra la ventana de edici¢n actual en caso de que haya dos
+abiertas.
+
+Utilice el mouse o la tecla F6 para mover el cursor hasta la
+ventana que desee cerrar. A continuaci¢n, haga clic en este
+elemento de men£ para cerrarla.
+
+Para cerrar una ventana tambi‚n puede utilizar el mouse.
+Arrastre la barra de t¡tulo inferior desde la parte superior de
+la pantalla para cerrar la ventana superior; si lo arrastre
+desde la parte inferior de la pantalla, podr  cerrar la ventana
+inferior.
+@@!134!@
+Ver archivo
+
+Selecciona un archivo cargado para editarlo.
+
+Haga clic en el nombre del archivo al que desee cambiar.
+
+Tambi‚n podr  utilizar las teclas de m‚todo abreviado
+Alt+1...Alt+9 para seleccionar un archivo, o bien la tecla F8
+para pasar al siguiente archivo cargado.
+@@!141!@
+Configuraci¢n
+
+Cambia la configuraci¢n del Editor
+@@!142!@
+Colores
+
+Cambia los colores de pantalla del Editor.
+@@!152!@
+Comandos del Editor
+
+Presenta una lista de los comandos de teclado del Editor.
+@@!153!@
+Acerca del Editor
+
+Presenta informaci¢n acerca del Editor.
+@@!200!@
+Errores de acceso a archivos
+
+El Editor no puede crear el archivo especificado, o acceder al
+mismo, lo que puede deberse a las siguientes razones:
+
+ Se est  intentando crear o escribir en un archivo dentro de
+  una unidad de s¢lo lectura, como un CD-ROM o una unidad de
+  red de s¢lo lectura.
+ Se est  intentando sobrescribir un archivo que es de s¢lo
+  lectura.
+ Se est  intentando acceder a un archivo que est  bloqueado
+  por otro usuario o programa.
+ Se est  intentando leer o escribir un nombre de directorio.
+@@!201!@
+Unidad vac¡a
+
+Aseg£rese de que la unidad de disco contenga un disco y de que
+la puerta de la unidad est‚ cerrada.
+@@!202!@
+Errores de disco
+
+MS-DOS no puede leer o escribir en esta unidad.
+
+Si se trata de una unidad de CD-ROM, aseg£rese de que tenga el
+CD-ROM dentro.
+
+Si se trata de un disco duro o disquetera, posiblemente la
+unidad tenga problemas. Se recomienda salir de inmediato y
+corregirlos.
+Las posibles causas pueden ser las siguientes:
+
+     Un sector defectuoso.
+     Una unidad incorrectamente formateada o particionada.
+     Problemas de hardware en la unidad o el controlador.
+
+Un programa de reparaci¢n de disco (como el ScanDisk) puede ser
+de ayuda para solucionar el problema. Recomendamos tambi‚n hacer
+una copia de seguridad de la unidad.
+@@!203!@
+Errores de impresora
+
+El Editor no pudo imprimir con la impresora, lo que puede
+deberse a las siguientes razones:
+
+   El dispositivo no est  conectado a ninguna impresora.
+   La impresora est  apagada o fuera de l¡nea.
+   Se ha agotado el papel de la impresora.
+   El cable de la impresora est  mal ajustado o desconectado.
+@@!204!@
+Archivo o ruta de acceso no v lido
+
+El Editor no pudo acceder a este archivo o carpeta, lo que puede
+deberse a las siguientes razones:
+
+   La ruta de acceso es demasiado larga o contiene caracteres
+    no v lidos.
+   La ruta de acceso hace referencia a una carpeta que no
+    existe.
+@@!9999!@
+

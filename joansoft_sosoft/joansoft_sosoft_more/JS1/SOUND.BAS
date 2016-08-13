@@ -1,0 +1,5 @@
+CLS
+FOR X = 43 TO 80
+SOUND X, 4
+NEXT
+

@@ -1,0 +1,8 @@
+A = 23
+B = 24
+C = 25
+D = 26
+E = 27
+M = A + B + C + D + E / 5
+PRINT "LA MEDIDA ARTIMETICA DE 23+ 24+ 25+ 26+ 27 ES DE:"; M
+
