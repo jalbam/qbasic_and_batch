@@ -16,4 +16,6 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
+*.BAS linguist-language=QBasic
 *.bas linguist-language=QBasic
+
