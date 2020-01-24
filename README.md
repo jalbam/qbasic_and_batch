@@ -1,6 +1,6 @@
 QBasic and Batch 
 ================= 
-by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
+by [Joan Alba Maldonado](https://joanalbamaldonado.com/) (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Some programs and projects made with QBasic under MS-DOS and batch scripts (.bat).
 
